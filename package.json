@@ -1,5 +1,5 @@
 {
-  "name": "is-authentication-demo",
+  "name": "is-node-authentication-demo",
   "version": "1.0.0",
   "description": "Node.js demo on how to authenticate to the Integration Services API",
   "main": "authentication.js",
